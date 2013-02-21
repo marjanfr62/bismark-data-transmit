@@ -47,7 +47,7 @@
 #define RETRY_INTERVAL_SECONDS  (RETRY_INTERVAL_MINUTES * 60)
 #ifndef DEFAULT_UPLOADS_URL
 //#define DEFAULT_UPLOADS_URL  "https://projectbismark.net:8081/upload/"
-#define DEFAULT_UPLOADS_URL "http://www.eecs.qmul.ac.uk/~marjan/bismark/"
+#define DEFAULT_UPLOADS_URL " https://webprojects.eecs.qmul.ac.uk/marjan/upload.php"
 #endif
 #ifndef MAX_UPLOADS_BLOCKS
 #define MAX_UPLOADS_BLOCKS  6144
